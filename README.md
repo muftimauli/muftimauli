@@ -20,16 +20,16 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
-- 🌱 Currently learning and building modern fullstack applications
-- 💻 Focused on Web Development, AI Automation, and Creative Technology
-- 🎨 Love creating clean UI and interactive digital experiences
-- ⚡ Building projects for portfolio, freelance, and future startup ideas
+-  Currently learning and building modern fullstack applications
+-  Focused on Web Development, AI Automation, and Creative Technology
+-  Love creating clean UI and interactive digital experiences
+-  Building projects for portfolio, freelance, and future startup ideas
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -39,17 +39,17 @@
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-🚀 AI Automation Tools  
-🌐 Modern Fullstack Web Apps  
-🎮 Interactive Game & Roblox Systems  
-☁️ Cloud-Based Applications  
-🎨 Creative UI/UX Projects  
+ AI Automation Tools  
+ Modern Fullstack Web Apps  
+ Interactive Game & Roblox Systems  
+ Cloud-Based Applications  
+ Creative UI/UX Projects  
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -93,6 +93,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+###  Thanks for visiting my profile 
 
 </div>
